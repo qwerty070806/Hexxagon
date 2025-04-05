@@ -73,11 +73,11 @@ Purpose: Import necessary libraries and initialize constants.
 
 Code Cell:
 
-Import libraries: pygame, sys, math, copy, random.
+- Import libraries: pygame, sys, math, copy, random.
 
-Initialize Pygame: pygame.init().
+- Initialize Pygame: pygame.init().
 
-Define constants like screen dimensions, colors, and fonts.
+- Define constants like screen dimensions, colors, and fonts.
 
 2. UI Components
 Purpose: Define reusable classes for UI elements like buttons and dropdowns.
