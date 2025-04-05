@@ -38,7 +38,7 @@ Game Setup
 
 2.Options: Human, AI-minimax, AI-alpha-beta, Random.(for each player)
 
--- Click on the "Start Game" button to begin.
+- Click on the "Start Game" button to begin.
 
 # Rules
 1.Players take turns placing or moving their pieces on the hexagonal grid.
