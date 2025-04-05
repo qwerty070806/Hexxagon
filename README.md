@@ -32,6 +32,9 @@ pip install pygame
 
 ```
 # How to Play
+
+Open hexxagon.ipynb in VS Code and Run All cells to enter into Game setup.
+
 Game Setup
 
 1.Select player types for Player 1 and Player 2 using dropdown menus:
