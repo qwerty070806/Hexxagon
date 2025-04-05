@@ -1,4 +1,4 @@
-### Hexxagon
+## Hexxagon
 This repository contains the implementation of a strategic board game
 called Hexxagon using Python and the pygame library. The game supports
 multiple modes, including Human vs Human, AI vs AI, and Human vs AI, with
@@ -38,3 +38,14 @@ Follow these steps:
 pip install pygame
 
 ```
+How to Play
+Game Setup
+Select player types for Player 1 and Player 2 using dropdown menus:
+
+Options: Human, AI-minimax, AI-alpha-beta, Random.
+for each player
+
+![mainmenu](https://github.com/user-attachments/assets/bd41f0e2-300c-497c-b1ac-05c1eee7deb5)
+
+
+Click on the "Start Game" button to begin.
