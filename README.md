@@ -12,16 +12,16 @@ showcasing the implementation of advanced AI techniques.
 • AI players using Minimax and Alpha-Beta pruning.
 • Random move generators.
 3. Provide multiple gameplay modes:
-• Human vs Human.
-• Human vs AI (minimax).
-• Human vs AI (alpha-beta).
-• Human vs Random
-• AI (minimax) vs AI (minimax).
-• AI (minimax) vs AI (alpha-beta).
-• AI (minimax) vs Random.
-• AI (alpha-beta) vs AI (alpha-beta).
-• AI (alpha-beta) vs Random.
-• Random vs Random.
+ • Human vs Human.
+ • Human vs AI (minimax).
+ • Human vs AI (alpha-beta).
+ • Human vs Random
+ • AI (minimax) vs AI (minimax).
+ • AI (minimax) vs AI (alpha-beta).
+ • AI (minimax) vs Random.
+ • AI (alpha-beta) vs AI (alpha-beta).
+ • AI (alpha-beta) vs Random.
+ • Random vs Random.
 4. Ensure smooth interaction and user-friendly UI.
 
 # Installation
@@ -144,6 +144,6 @@ Purpose: Create a start menu with dropdowns for player selection and a start but
 
 Code Cell:
 
-Dropdowns for selecting Player 1 and Player 2 types.
+- Dropdowns for selecting Player 1 and Player 2 types.
 
-Start button to launch the selected game mode.
+- Start button to launch the selected game mode.
