@@ -13,13 +13,13 @@ showcasing the implementation of advanced AI techniques.
 • Random move generators.
 3. Provide multiple gameplay modes:
    
- • Human vs Human.
+ - • Human vs Human.
  
- • Human vs AI (minimax).
+ - • Human vs AI (minimax).
  
- • Human vs AI (alpha-beta).
+ - • Human vs AI (alpha-beta).
  
- • Human vs Random
+ - • Human vs Random
  
  • AI (minimax) vs AI (minimax).
  
@@ -33,7 +33,7 @@ showcasing the implementation of advanced AI techniques.
  
  • Random vs Random.
  
-5. Ensure smooth interaction and user-friendly UI.
+4. Ensure smooth interaction and user-friendly UI.
 
 # Installation
 Prerequisites
