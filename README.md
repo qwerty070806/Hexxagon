@@ -8,9 +8,9 @@ showcasing the implementation of advanced AI techniques.
 ## Objectives
 1. Create a visually appealing hexagonal grid-based board game.
 2. Implement various player types:
-# • Human players.
-# • AI players using Minimax and Alpha-Beta pruning.
-# • Random move generators.
+• Human players.
+• AI players using Minimax and Alpha-Beta pruning.
+• Random move generators.
 3. Provide multiple gameplay modes:
 • Human vs Human.
 • Human vs AI (minimax).
@@ -23,3 +23,18 @@ showcasing the implementation of advanced AI techniques.
 • AI (alpha-beta) vs Random.
 • Random vs Random.
 4. Ensure smooth interaction and user-friendly UI.
+
+## Installation
+# Prerequisites
+Python 3.10 or higher
+
+Pygame library
+
+Follow these steps:
+
+```sh
+
+# Install the necessary dependencies.
+pip install pygame
+
+```
