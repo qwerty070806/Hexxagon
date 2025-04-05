@@ -40,12 +40,25 @@ pip install pygame
 ```
 How to Play
 Game Setup
-Select player types for Player 1 and Player 2 using dropdown menus:
+1.Select player types for Player 1 and Player 2 using dropdown menus:
 
-Options: Human, AI-minimax, AI-alpha-beta, Random.
-for each player
+2.Options: Human, AI-minimax, AI-alpha-beta, Random.(for each player)
 
 ![mainmenu](https://github.com/user-attachments/assets/bd41f0e2-300c-497c-b1ac-05c1eee7deb5)
 
 
 Click on the "Start Game" button to begin.
+
+![startgame](https://github.com/user-attachments/assets/0837614f-be4e-49b3-9574-e90a44bafa88)
+
+# Rules
+1.Players take turns placing or moving their pieces on the hexagonal grid.
+
+2.Pieces can either clone to adjacent cells or jump to adjacent of adjacent cells.
+
+3.Opponent's pieces adjacent to the moved piece are converted to the current player's color.
+
+4.The game ends when no valid moves are possible or the grid is full.
+
+# Winning Criteria
+1.The player with the most pieces on the board at the end of the game wins.
