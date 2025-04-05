@@ -1,4 +1,4 @@
-# Hexxagon
+### Hexxagon
 This repository contains the implementation of a strategic board game
 called Hexxagon using Python and the pygame library. The game supports
 multiple modes, including Human vs Human, AI vs AI, and Human vs AI, with
@@ -24,8 +24,8 @@ showcasing the implementation of advanced AI techniques.
 • Random vs Random.
 4. Ensure smooth interaction and user-friendly UI.
 
-## Installation
-# Prerequisites
+# Installation
+Prerequisites
 Python 3.10 or higher
 
 Pygame library
