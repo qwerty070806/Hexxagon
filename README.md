@@ -38,8 +38,9 @@ Follow these steps:
 pip install pygame
 
 ```
-How to Play
+# How to Play
 Game Setup
+
 1.Select player types for Player 1 and Player 2 using dropdown menus:
 
 2.Options: Human, AI-minimax, AI-alpha-beta, Random.(for each player)
